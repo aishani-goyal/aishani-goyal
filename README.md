@@ -21,8 +21,8 @@
 
   <!-- Bootstrap (colored) -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-         alt="bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+       alt="bootstrap" width="40" height="40"/>
   </a>
 
   <!-- C -->
@@ -58,8 +58,8 @@
 
   <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-         alt="firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+       alt="firebase" width="40" height="40"/>
   </a>
 
   <!-- Git -->
