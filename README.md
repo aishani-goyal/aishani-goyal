@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aishani Goyal</h1>
 <h3 align="center">Pre‑Final Year CSE Undergrad | Aspiring Software Development Engineer</h3>
 
+<img align="right" src="./work.gif" width="220" />
+
 - 🔭 I’m currently working on **DeceptiLogin**
-- <img align="right" src="./Animation.gif" width="140"/>
 
 - 🌱 I’m currently learning **backend development with Node.js & Express.js**
 
-- 📫 How to reach me **aishanigoyal13@gmail.com**
+- 📫 How to reach me: **aishanigoyal13@gmail.com**
 
-- 📄 Know about my experiences  
-  <a href="https://drive.google.com/file/d/1QLxWjZ2KMH_M9eximLyABap9UQdgIrq5/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1QLxWjZ2KMH_M9eximLyABap9UQdgIrq5/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
