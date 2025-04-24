@@ -2,7 +2,8 @@
 <h3 align="center">Pre‑Final Year CSE Undergrad | Aspiring Software Development Engineer</h3>
 <br>
 
-<img align="right" src="./Readme_img.png" width="260" />
+<img align="right" src="./Readme_img.png" width="300"
+     style="margin-top:-20px;" />
 
 - 🔭 I’m currently working on **DeceptiLogin**
 
