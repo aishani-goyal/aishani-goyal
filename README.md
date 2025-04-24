@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aishani Goyal</h1>
 <h3 align="center">Pre‑Final Year CSE Undergrad | Aspiring Software Development Engineer</h3>
-<br>
 
-<div style="float:right; margin-top:-25px;">
-  <img src="./Readme_img.png" width="300"/>
-</div>
+<img align="right" src="./Readme_img.png" width="300"
+     style="margin-top:-20px;" />
 
 - 🔭 I’m currently working on **DeceptiLogin**
 
