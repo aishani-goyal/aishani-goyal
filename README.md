@@ -9,7 +9,6 @@
 
 - 📫 How to reach me: **aishanigoyal13@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1QLxWjZ2KMH_M9eximLyABap9UQdgIrq5/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
