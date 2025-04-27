@@ -3,7 +3,7 @@
 <br>
 <img align="right" src="./banner_img.png" width="300" />
 
-- 🔭 I’m currently working on various cybersecurity projects
+- 🔭 I am currently expanding my knowledge in the domain of cybersecurity by being actively involved in projects such as DeceptiLogin and ChaosCrypt.
 
 - 🌱 I’m currently learning backend development with Node.js & Express.js
 
