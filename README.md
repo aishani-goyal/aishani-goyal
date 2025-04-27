@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on various cybersecurity projects
 
-- 🌱 I’m currently learning **backend development with Node.js & Express.js**
+- 🌱 I’m currently learning backend development with Node.js & Express.js
 
 - 📫 How to reach me: **aishanigoyal13@gmail.com**
 
