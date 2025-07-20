@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning backend development with Node.js & Express.js
 
-- 📫 How to reach me: **aishanigoyal13@gmail.com**
+- 📫 How to reach me: **aishanigoyal2005@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
