@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aishani Goyal</h1>
-<h3 align="center">Pre‑Final Year CSE Undergrad | Aspiring Software Development Engineer</h3>
+<h3 align="center">Final Year CSE Undergrad | Aspiring Software Development Engineer</h3>
 <br>
 <img align="right" src="./banner_img.png" width="300" />
 
-- 🔭 I am currently expanding my knowledge in the domain of cybersecurity by being actively involved in projects such as DeceptiLogin and ChaosCrypt.
+- 🔭 I am currently working on an "AI-driven archaeological site mapping" project as an AI Intern at Infosys Springboard.
 
-- 🌱 I’m currently learning backend development with Node.js & Express.js
+- 🌱 Recently worked on a Gen-AI project named "Fake News Detector and Generator" as part of IBM PBEL (Project-Based Experiential Learning) program.
 
 - 📫 How to reach me: **aishanigoyal2005@gmail.com**
 
