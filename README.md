@@ -17,8 +17,8 @@
 
 ### Languages and Tools:
 
-**Frontend:** HTML, CSS, Bootstrap, Chart.js  
-**Backend:** Node.js, Express.js, PHP  
-**Databases:** MySQL, Microsoft SQL Server, Firebase  
-**Programming Languages:** C, Java, Python  
+**Frontend:** HTML, CSS, Javascript, React.js, Bootstrap
+**Backend:** Node.js, Express.js
+**Databases:** MongoDB, MySQL, Firebase  
+**Programming Languages:** Java, C, Python  
 **Tools & Others:** Git, Postman, Figma  
