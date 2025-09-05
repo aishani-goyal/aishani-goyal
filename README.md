@@ -17,12 +17,10 @@
 
 ### Languages and Tools:
 
-**Frontend:** HTML, CSS, Javascript, React.js, Bootstrap
+**Languages:** Java, C, Python, HTML, CSS, JavaScript, SQL
 
-**Backend:** Node.js, Express.js
+**Frameworks:** Bootstrap, React.js, Node.js, Express.js
 
-**Databases:** MongoDB, MySQL, Firebase 
+**Tools:** Git, Postman, Figma
 
-**Programming Languages:** Java, C, Python 
-
-**Tools & Others:** Git, Postman, Figma  
+**Databases:** MySQL , MongoDB, Cloud Firestore
