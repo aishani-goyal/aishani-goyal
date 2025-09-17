@@ -5,7 +5,7 @@
 
 - 🔭 I am currently working on an "AI-driven archaeological site mapping" project as an AI Intern at Infosys Springboard.
 
-- 🌱 Recently worked on a Gen-AI project named "Fake News Detector and Generator" as part of IBM PBEL (Project-Based Experiential Learning) program.
+- 🌱 Recently completed a Gen-AI project named "Fake News Detector and Generator" as part of IBM PBEL (Project-Based Experiential Learning) program.
 
 - 📫 How to reach me: **aishanigoyal2005@gmail.com**
 
